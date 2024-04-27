@@ -1,0 +1,9 @@
+.container {
+        text-align: center;
+        background-color: blueviolet;
+        border: 3px solid black;
+        width: 700px;
+        height: 600px;
+        border-radius:20px ;
+        display: none;
+}

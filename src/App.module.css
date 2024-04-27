@@ -1,0 +1,29 @@
+h1 {
+	color: #fff;
+}
+
+.container {
+	width: 1220px;
+	height: 1301px;
+	background: rgb(104, 191, 191);
+	padding: 10px;
+	gap: 10px;
+    border-radius: 20px;
+	display: flex;
+	border: 3px solid black;
+	flex-direction: column;
+}
+
+.con {
+	display: flex;
+}
+.div {
+	display: block;
+	text-align: center;
+}
+.div1 {
+	display: flex;
+}
+header {
+	font-size: 50px;
+}
